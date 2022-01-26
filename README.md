@@ -1,8 +1,8 @@
 # Python: Getting Started
 
-A barebones Django app, which can easily be deployed to Heroku.
+This site is up at https://glacial-bastion-26482.herokuapp.com/
 
-This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
+This was created by following the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article.
 
 ## Running Locally
 
