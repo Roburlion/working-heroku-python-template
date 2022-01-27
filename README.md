@@ -1,6 +1,8 @@
 # Python: Getting Started
 
-This site is up at https://glacial-bastion-26482.herokuapp.com/
+This site is up at https://working-heroku-python-template.herokuapp.com/
+
+**All changes to this repo should be done on a dev branch!**
 
 This was created by following the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article.
 
